@@ -1,0 +1,4 @@
+report:
+Safari on iphone 3G: CSS Type is not working, it only load the 'screen' css file 
+Chrome on HTC Incredible: Not working with CSS type 
+
